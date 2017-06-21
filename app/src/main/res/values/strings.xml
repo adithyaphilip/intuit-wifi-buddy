@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Intuit Wifi Buddy</string>
+    <string name="version">v1.2.2 Playstore Pomfret</string>
+
+    <!-- Main activity strings -->
+    <string name="main_login_explanation">If for some reason Intuit Wifi Buddy failed to log you in automatically, just press the button below!</string>
+
+    <!-- Login activity related text-->
+    <string name="login_title">Welcome!</string>
+    <string name="login_failed">Incorrect username/password. Try Again.</string>
+
+    <string name="login_prompt">Your Intuit Wifi Buddy greets you warmly!</string>
+
+    <string name="login_prompt2">Enter username/password for Guest Wi-fi (only once)</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_btn">Enable Auto Login</string>
+
+    <!-- Permissions alert dialog -->
+    <string name="alert_perm_title">Permissions Needed</string>
+    <string name="alert_perm_body">To be a good Wi-Fi Buddy, I need a few permissions! Are you ready to begin?</string>
+</resources>
